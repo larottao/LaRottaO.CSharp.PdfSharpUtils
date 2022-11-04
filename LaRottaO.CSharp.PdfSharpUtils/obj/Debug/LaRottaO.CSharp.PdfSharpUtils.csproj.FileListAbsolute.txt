@@ -1,0 +1,13 @@
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\LaRottaO.CSharp.PdfSharpUtils.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\LaRottaO.CSharp.PdfSharpUtils.pdb
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\PdfSharp.Charting.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\PdfSharp.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\PdfSharp.xml
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\PdfSharp.Charting.xml
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\de\PdfSharp.resources.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\obj\Debug\LaRottaO.CSharp.PdfSharpUtils.csproj.AssemblyReference.cache
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\obj\Debug\LaRottaO.CSharp.PdfSharpUtils.csproj.CoreCompileInputs.cache
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\obj\Debug\LaRottaO.CSharp.PdfSharpUtils.csproj.CopyComplete
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\obj\Debug\LaRottaO.CSharp.PdfSharpUtils.dll
+C:\Repositorios\LaRottaO.CSharp.PdfSharpUtils\LaRottaO.CSharp.PdfSharpUtils\obj\Debug\LaRottaO.CSharp.PdfSharpUtils.pdb
